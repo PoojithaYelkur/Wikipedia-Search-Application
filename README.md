@@ -3,7 +3,7 @@
 A simple web application that lets you search Wikipedia articles instantly.  
 Built using **HTML**, **CSS**, **JavaScript**, and the [Wikipedia Search API](https://apis.ccbp.in/wiki-search).
 
-**Live Demo:** [https://poojithayelkur.github.io/Wikipedia-Search-Application/](https://poojithayelkur.github.io/Wikipedia-Search-Application/)  
+**Live Demo:** [https://poojithaYelkur.github.io/Wikipedia-Search-Application/](https://poojithaYelkur.github.io/Wikipedia-Search-Application/)  
 
 ## Preview
 
